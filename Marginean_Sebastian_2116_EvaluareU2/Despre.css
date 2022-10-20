@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+    background-color: red;
+}
+
+.nav{
+    color:black;
+}
+
+.w3-row{
+    background: linear-gradient(to bottom, #f5f5f5 17%, #ff0000 100%);
+    font-weight: bold;
+    font-style: oblique;
+}
+
+#container{
+    margin-top: 75px;
+    text-align: center;
+    color:white;
+}
+.tabel{
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+}
+
+table, th, td {
+  border:1px solid white;
+}

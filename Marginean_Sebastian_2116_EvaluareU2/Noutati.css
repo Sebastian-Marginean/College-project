@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+    background-color: red;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav{
+    color:black;
+}
+
+.w3-row{
+    background: linear-gradient(to bottom, #f5f5f5 17%, #ff0000 100%);
+    font-weight: bold;
+    font-style: oblique;
+}
+
+img{
+    border-radius: 50%;
+    opacity: 0.85;
+}
+
+.noutati{
+    text-align: center;
+    margin-top: 70px;
+}
+h2{
+    color: white;
+    font-style: oblique;
+}
+
+h1{
+    font-style: italic;
+}
